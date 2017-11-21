@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+/target
+/classes
+/checkouts
+=======
+>>>>>>> 185ecddb1636d6870c3f839ea0622279246296b3
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+<<<<<<< HEAD
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+=======
+/lib/
+/classes/
+/target/
+/checkouts/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
+>>>>>>> 185ecddb1636d6870c3f839ea0622279246296b3
